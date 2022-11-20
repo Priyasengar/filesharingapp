@@ -1,0 +1,7 @@
+#Sat Nov 19 20:07:12 IST 2022
+base.1=/Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+path.1=classes.dex
+base.0=/Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

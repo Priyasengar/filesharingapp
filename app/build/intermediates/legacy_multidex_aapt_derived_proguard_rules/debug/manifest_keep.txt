@@ -1,0 +1,1 @@
+-keep class com.harshdixit.filesharingapp.base.App { <init>(); }
