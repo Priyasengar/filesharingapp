@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
+            "outputFile": "/Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml",
             "map": [
                 {
                     "source": "/Users/harshdixit/.gradle/caches/transforms-2/files-2.1/d3d5b9e29e0b1ff18349de5aab0a5146/jetified-firebase-messaging-17.3.3/res/values-bg/values.xml",

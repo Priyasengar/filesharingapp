@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 provider#androidx.core.content.FileProvider
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:152:9-160:20
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:152:9-160:20
 	android:grantUriPermissions
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:156:13-47
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:156:13-47
 	android:authorities
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:154:13-64
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:154:13-64
 	android:exported
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:155:13-37
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:155:13-37
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:153:13-62
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:153:13-62
 manifest
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/4cb34b6d307091ebe9a6d7fe103d1173/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/f301bc2a9887655205e4a00d168eecde/constraintlayout-2.0.0-beta7/AndroidManifest.xml:2:1-11:12
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:2:1-106:12
@@ -78,103 +78,103 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harshdixit/.gra
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/923395ede2871d5e5078a50618a39a0c/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/1522e74ec27343c6478fc97c001a1886/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/ae649e0b076677a188f54e8b3019794c/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
 	package
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:4:5-44
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:4:5-44
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:1-216:12
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:1-216:12
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:6:5-76
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:6:5-76
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:6:22-73
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:6:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:7:5-79
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:7:5-79
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:24:5-79
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/fc42e812716871c0b12948ef83f2ecc6/jetified-firebase-iid-17.0.3/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/fc42e812716871c0b12948ef83f2ecc6/jetified-firebase-iid-17.0.3/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:7:22-76
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:8:5-76
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:8:5-76
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:8:22-73
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:8:22-73
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:9:5-79
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:9:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:10:5-67
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:10:5-67
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:16:5-67
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:16:5-67
 MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/fc42e812716871c0b12948ef83f2ecc6/jetified-firebase-iid-17.0.3/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/fc42e812716871c0b12948ef83f2ecc6/jetified-firebase-iid-17.0.3/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:10:22-64
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:10:22-64
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:11:5-77
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:11:5-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:11:22-74
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:11:22-74
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:12:5-75
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:12:5-75
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:12:22-72
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:12:22-72
 uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:13:5-83
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:13:5-83
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:13:22-80
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:13:22-80
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:14:5-78
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:14:5-78
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:14:22-75
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:14:22-75
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:15:5-81
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:15:22-78
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:15:22-78
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:16:5-17:47
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:16:5-17:47
 	tools:ignore
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:17:9-44
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:17:9-44
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:16:22-70
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:16:22-70
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:18:5-81
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:18:22-78
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:18:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:19:5-79
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:19:22-76
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:19:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:20:5-66
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:20:5-66
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:23:5-66
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:23:5-66
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:20:22-63
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:20:22-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:22:5-68
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:22:5-68
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:18:5-68
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:18:5-68
 MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/fc42e812716871c0b12948ef83f2ecc6/jetified-firebase-iid-17.0.3/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/fc42e812716871c0b12948ef83f2ecc6/jetified-firebase-iid-17.0.3/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:22:22-65
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:22:22-65
 application
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:24:5-213:19
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:24:5-213:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/f301bc2a9887655205e4a00d168eecde/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/f301bc2a9887655205e4a00d168eecde/constraintlayout-2.0.0-beta7/AndroidManifest.xml:9:5-20
 MERGED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:48:5-104:19
@@ -222,308 +222,308 @@ MERGED from [com.github.bumptech.glide:gifdecoder:4.10.0] /Users/harshdixit/.gra
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/c8d98f96fc8a24a1944815e2190bb0cd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/c8d98f96fc8a24a1944815e2190bb0cd/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:supportsRtl
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:31:9-35
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:31:9-35
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:30:9-41
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:30:9-41
 	android:appComponentFactory
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:27:9-55
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:27:9-55
 		REJECTED from [androidx.core:core:1.2.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/3e171ee09dcfa11e13ff2f34db50c6cf/core-1.2.0/AndroidManifest.xml:24:18-86
 	android:fullBackupContent
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:28:9-41
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:28:9-41
 	tools:ignore
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:33:9-48
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:33:9-48
 	android:icon
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:29:9-43
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:29:9-43
 	android:allowBackup
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:26:9-35
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:32:9-45
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:32:9-45
 	tools:replace
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:34:9-52
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:34:9-52
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:25:9-62
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:25:9-62
 meta-data#com.google.android.gms.version
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:36:9-38:69
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:36:9-38:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/4bbd70da13c4b315c7f446668326eebf/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/4bbd70da13c4b315c7f446668326eebf/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:38:13-66
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:38:13-66
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:37:13-58
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:37:13-58
 activity#com.harshdixit.filesharingapp.activity.MainActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:40:9-46:20
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:40:9-46:20
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:42:13-45
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:42:13-45
 	android:launchMode
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:43:13-44
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:43:13-44
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:44:13-61
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:44:13-61
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:41:13-79
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:41:13-79
 activity#com.harshdixit.filesharingapp.activity.ShareActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:47:9-63:20
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:47:9-63:20
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:49:13-45
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:49:13-45
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:50:13-77
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:50:13-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:48:13-80
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:48:13-80
 intent-filter#action:name:android.intent.action.SEND+action:name:android.intent.action.SEND_MULTIPLE+action:name:genonbeta.intent.action.TBShare_SEND+action:name:genonbeta.intent.action.TBShare_SEND_MULTIPLE+action:name:genonbeta.intent.action.TBShare_SEND_TEXT+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:51:13-60:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:51:13-60:29
 action#genonbeta.intent.action.TBShare_SEND_TEXT
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:52:17-84
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:52:17-84
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:52:25-81
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:52:25-81
 action#android.intent.action.SEND
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:53:17-69
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:53:17-69
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:53:25-66
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:53:25-66
 action#android.intent.action.SEND_MULTIPLE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:54:17-78
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:54:17-78
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:54:25-75
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:54:25-75
 action#genonbeta.intent.action.TBShare_SEND
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:55:17-79
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:55:17-79
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:55:25-76
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:55:25-76
 action#genonbeta.intent.action.TBShare_SEND_MULTIPLE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:56:17-88
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:56:17-88
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:56:25-85
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:56:25-85
 category#android.intent.category.DEFAULT
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:58:17-76
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:58:17-76
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:58:27-73
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:58:27-73
 data
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:59:17-48
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:59:17-48
 	android:host
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:104:23-39
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:104:23-39
 	android:scheme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:100:23-44
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:100:23-44
 	android:pathPattern
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:105:23-56
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:105:23-56
 	android:mimeType
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:59:23-45
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:59:23-45
 activity#com.harshdixit.filesharingapp.activity.AddDevicesToTransferActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:65:9-68:80
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:65:9-68:80
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:67:13-62
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:67:13-62
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:68:13-77
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:68:13-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:66:13-95
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:66:13-95
 activity#com.harshdixit.filesharingapp.activity.FileExplorerActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:70:9-73:80
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:70:9-73:80
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:72:13-54
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:72:13-54
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:73:13-77
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:73:13-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:71:13-87
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:71:13-87
 activity#com.harshdixit.filesharingapp.activity.ConnectionManagerActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:75:9-78:80
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:75:9-78:80
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:77:13-56
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:77:13-56
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:78:13-77
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:78:13-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:76:13-92
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:76:13-92
 activity#com.harshdixit.filesharingapp.activity.ContentSharingActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:80:9-84:80
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:80:9-84:80
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:82:13-46
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:82:13-46
 	android:launchMode
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:83:13-44
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:83:13-44
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:84:13-77
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:84:13-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:81:13-89
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:81:13-89
 activity#com.harshdixit.filesharingapp.activity.FilePickerActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:86:9-88:57
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:86:9-88:57
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:88:13-54
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:88:13-54
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:87:13-85
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:87:13-85
 activity#com.harshdixit.filesharingapp.activity.ViewTransferActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:90:9-108:20
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:90:9-108:20
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:92:13-59
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:92:13-59
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:93:13-77
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:93:13-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:91:13-87
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:91:13-87
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:*+data:mimeType:*/*+data:pathPattern:.*\\..*\\.tshare+data:pathPattern:.*\\.tshare+data:scheme:content+data:scheme:file
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:94:13-107:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:94:13-107:29
 action#android.intent.action.VIEW
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:95:17-69
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:95:17-69
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:95:25-66
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:95:25-66
 category#android.intent.category.BROWSABLE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:98:17-78
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:98:17-78
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:98:27-75
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:98:27-75
 activity#com.harshdixit.filesharingapp.activity.ManageDevicesActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:110:9-113:63
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:110:9-113:63
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:112:13-55
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:112:13-55
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:113:13-61
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:113:13-61
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:111:13-88
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:111:13-88
 activity#com.harshdixit.filesharingapp.activity.SearchActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:115:9-117:51
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:115:9-117:51
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:117:13-48
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:117:13-48
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:116:13-81
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:116:13-81
 activity#com.harshdixit.filesharingapp.activity.TextEditorActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:119:9-121:55
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:119:9-121:55
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:121:13-52
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:121:13-52
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:120:13-85
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:120:13-85
 activity#com.harshdixit.filesharingapp.activity.ChangeStoragePathActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:123:9-130:20
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:123:9-130:20
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:125:13-63
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:125:13-63
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:124:13-92
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:124:13-92
 intent-filter#action:name:com.genonbeta.intent.action.UPDATE_STORAGE_PATH+category:name:android.intent.category.DEFAULT
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:126:13-129:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:126:13-129:29
 action#com.genonbeta.intent.action.UPDATE_STORAGE_PATH
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:127:17-90
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:127:17-90
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:127:25-87
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:127:25-87
 activity#com.harshdixit.filesharingapp.activity.BarcodeScannerActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:132:9-135:75
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:132:9-135:75
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:134:13-52
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:134:13-52
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:135:13-72
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:135:13-72
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:133:13-89
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:133:13-89
 activity#com.harshdixit.filesharingapp.activity.SplashActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:137:9-147:20
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:137:9-147:20
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:139:13-45
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:139:13-45
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:140:13-61
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:140:13-61
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:138:13-81
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:138:13-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:142:13-145:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:142:13-145:29
 action#android.intent.action.MAIN
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:143:17-69
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:143:17-69
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:143:25-66
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:143:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:144:17-77
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:144:17-77
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:144:27-74
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:144:27-74
 activity#com.harshdixit.filesharingapp.activity.WebShareActivity
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:148:9-150:63
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:148:9-150:63
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:149:13-38
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:149:13-38
 	android:theme
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:150:13-61
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:150:13-61
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:148:19-89
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:148:19-89
 receiver#com.harshdixit.filesharingapp.receiver.NetworkStatusReceiver
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:162:9-171:20
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:162:9-171:20
 	android:process
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:164:13-40
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:164:13-40
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:163:13-88
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:163:13-88
 intent-filter#action:name:android.net.wifi.STATE_CHANGE+action:name:android.net.wifi.WIFI_AP_STATE_CHANGED+action:name:android.net.wifi.WIFI_STATE_CHANGED+action:name:android.net.wifi.p2p.CONNECTION_STATE_CHANGE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:165:13-170:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:165:13-170:29
 action#android.net.wifi.WIFI_STATE_CHANGED
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:166:17-78
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:166:17-78
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:166:25-75
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:166:25-75
 action#android.net.wifi.WIFI_AP_STATE_CHANGED
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:167:17-81
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:167:17-81
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:167:25-78
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:167:25-78
 action#android.net.wifi.STATE_CHANGE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:168:17-72
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:168:17-72
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:168:25-69
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:168:25-69
 action#android.net.wifi.p2p.CONNECTION_STATE_CHANGE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:169:17-87
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:169:17-87
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:169:25-84
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:169:25-84
 receiver#com.harshdixit.filesharingapp.receiver.DialogEventReceiver
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:172:9-174:43
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:172:9-174:43
 	android:process
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:174:13-40
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:174:13-40
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:173:13-86
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:173:13-86
 service#com.harshdixit.filesharingapp.service.CommunicationService
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:176:9-180:43
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:176:9-180:43
 	android:process
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:180:13-40
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:180:13-40
 	android:enabled
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:178:13-35
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:178:13-35
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:179:13-62
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:179:13-62
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:177:13-86
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:177:13-86
 service#com.harshdixit.filesharingapp.service.DeviceChooserService
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:182:9-189:19
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:182:9-189:19
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:184:13-62
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:184:13-62
 	android:permission
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:185:13-80
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:185:13-80
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:183:13-86
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:183:13-86
 intent-filter#action:name:android.service.chooser.ChooserTargetService
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:186:13-188:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:186:13-188:29
 action#android.service.chooser.ChooserTargetService
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:187:17-87
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:187:17-87
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:187:25-84
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:187:25-84
 service#com.harshdixit.filesharingapp.service.DeviceScannerService
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:190:9-197:19
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:190:9-197:19
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:190:18-91
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:190:18-91
 intent-filter#action:name:genonbeta.intent.action.ADD_IP+action:name:genonbeta.intent.action.SCAN_DEVICES+category:name:android.intent.category.DEFAULT
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:191:13-196:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:191:13-196:29
 action#genonbeta.intent.action.SCAN_DEVICES
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:192:17-79
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:192:17-79
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:192:25-76
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:192:25-76
 action#genonbeta.intent.action.ADD_IP
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:193:17-73
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:193:17-73
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:193:25-70
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:193:25-70
 service#com.harshdixit.filesharingapp.service.WorkerService
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:199:9-201:58
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:199:9-201:58
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:201:13-55
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:201:13-55
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:200:13-79
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:200:13-79
 service#com.harshdixit.filesharingapp.service.CommunicationToggleTile
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:203:9-212:19
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:203:9-212:19
 	android:process
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:208:13-40
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:208:13-40
 	android:label
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:206:13-52
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:206:13-52
 	android:permission
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:207:13-77
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:207:13-77
 	android:icon
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:205:13-47
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:205:13-47
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:204:13-89
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:204:13-89
 intent-filter#action:name:android.service.quicksettings.action.QS_TILE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:209:13-211:29
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:209:13-211:29
 action#android.service.quicksettings.action.QS_TILE
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:210:17-87
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:210:17-87
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:210:25-84
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:210:25-84
 uses-sdk
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/4cb34b6d307091ebe9a6d7fe103d1173/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/4cb34b6d307091ebe9a6d7fe103d1173/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta7] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/f301bc2a9887655205e4a00d168eecde/constraintlayout-2.0.0-beta7/AndroidManifest.xml:5:5-7:41
@@ -650,24 +650,24 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harshdixit/.gradle/ca
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/1522e74ec27343c6478fc97c001a1886/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/ae649e0b076677a188f54e8b3019794c/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/ae649e0b076677a188f54e8b3019794c/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/61df67b688e9ff01278004eba1ce8d76/jetified-core-0.9.6.0/AndroidManifest.xml:11:9-72
 	android:targetSdkVersion
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml
 meta-data#android.support.FILE_PROVIDER_PATHS
-ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:157:13-159:58
+ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:157:13-159:58
 	android:resource
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:159:17-55
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:159:17-55
 	android:name
-		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/Turbo Share ( Ads Free )/app/src/main/AndroidManifest.xml:158:17-67
+		ADDED from /Users/harshdixit/Downloads/codecanyon turbo-share-shareit-clone-transfer-share-popular-app-admob-onesignal-integration/Turbo Share 1.6/File Sharing App/app/src/main/AndroidManifest.xml:158:17-67
 permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:3.14.1] /Users/harshdixit/.gradle/caches/transforms-2/files-2.1/94985f5e8c2a48e0180ba979c7110521/jetified-OneSignal-3.14.1/AndroidManifest.xml:7:5-9:47
 	android:protectionLevel
